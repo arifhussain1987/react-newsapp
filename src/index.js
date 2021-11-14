@@ -13,7 +13,7 @@ const Root = () =>
   <Link to="/python">python</Link>
   <Link to="/javascript">javascript</Link>
 
-    <Routes>
+    <Routes basename="/arifhussain1987/">
       <Route exact path="/" element={<App />} />
       <Route exact path="/python" element={<Python /> } />
       <Route exact path="/javascript" element={<Javascript /> } />
