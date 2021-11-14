@@ -1,0 +1,22 @@
+body{
+    margin: 20;
+    padding: 0;
+
+}
+
+.cls1{
+    background: green;
+    height: 100px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+input{
+    width: 60%;
+    background-image: url("./search.png");
+    background-repeat: no-repeat;
+    padding-left: 10px;
+    margin-top: 10px;
+}
+
+
